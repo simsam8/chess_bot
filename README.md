@@ -4,7 +4,8 @@
 ## TODO
 
 - [ ] Represent the chess board in code
-- [ ] Represent pieces as class
+- [ ] Validate movement of pieces
+- [ ] ~~Represent pieces as class~~
 - [ ] Implement movement methods
 - [ ] Implement the rules of chess
 - [ ] Functioning game loop
